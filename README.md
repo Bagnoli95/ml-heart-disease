@@ -1,7 +1,7 @@
 # ml-heart-disease
 Machine Learning Model - Heart Disease UCI classification
 
-Clasificación utilizando XGBoost (Core)
+### Clasificación utilizando XGBoost (Core)
 
 ## Dataset
  El dataset de enfermedades del corazón de la UCI contiene información sobre varios factores de riesgo asociados con enfermedades cardíacas. El objetivo es predecir la presencia de enfermedad cardíaca basándose en estos factores.
